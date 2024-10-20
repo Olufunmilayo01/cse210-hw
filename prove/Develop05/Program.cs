@@ -1,5 +1,6 @@
 using System;
 
+// I exceeded requirement by adding more meaningful animations to the breathing activity
 public class Program
 {
     public static void Main(string[] args)
