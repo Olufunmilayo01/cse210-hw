@@ -18,7 +18,7 @@ public class ListingActivity : Activity
         };
     }
 
-    // Method to run the listing activity
+    
     public void Run()
     {
         DisplayStartingMessage();
